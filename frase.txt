@@ -1,1 +1,1 @@
-hola esta es una frase que estoy aprendiendo git 
+hola esta es una frase que estoy aprendiendo git. nuevo cambio para nuevo commit
